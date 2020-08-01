@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Cardpay",
+    "slug": "cardpay",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/icon.png",
+      "backgroundColor": "#f35455"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "android": {
+      "package": "com.mycompany.Cardpay",
+      "googleServicesFile": "./google-services.json",
+      "versionCode": 1
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "sdkVersion": "38.0.0"
+  }
+}

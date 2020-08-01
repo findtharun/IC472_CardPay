@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "467588252342",
+    "firebase_url": "https://cardpay-5a0c2.firebaseio.com",
+    "project_id": "cardpay-5a0c2",
+    "storage_bucket": "cardpay-5a0c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467588252342:android:c339244fd8190131f7dc17",
+        "android_client_info": {
+          "package_name": "com.mycompany.Cardpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467588252342-5lte1jhcjber2fqrrvto1ja3qi1lv45b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDjabu9V_PxOztV_zapjsjEEvGZ_7oLa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467588252342-5lte1jhcjber2fqrrvto1ja3qi1lv45b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
