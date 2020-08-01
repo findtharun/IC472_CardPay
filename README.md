@@ -9,7 +9,7 @@ Let's have a look at the statistics from 2018.
 The below graph shows the consequences one goes through if they are a victim of credit card fraud transaction. 
 > <img src="images/Physical impact.jpg" width="500" height="400" >
 
-> *Any data is sensitive, if fallen into wrong hands, the effect and consequences can be disastrous. These frauds and malicious attacks call for a **ground-breaking** innovation which can help little by little to help everything fall into the right place. We believe that **Card Pay** holds the potential to make one feel safe and secure while enabling one to experience a seamless transaction.* 
+> *Any data is sensitive, if fallen into wrong hands, the effect and consequences can be disastrous. These frauds and malicious attacks call for a **ground-breaking** innovation which can help little by little to help everything fall into the right place. We believe that **Card Pay** holds the potential to make one feel safe and secure while enabling them to experience a seamless transaction.* 
 
 ## About Card Pay
 Card Pay is a mobile application which Authenticates Users before transaction using AI Techniques, ensuring safety and security. How does this happen? Let's try to understand using the workflow below.
