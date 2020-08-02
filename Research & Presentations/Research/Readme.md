@@ -1,1 +1,1 @@
-This Folder Contains Our Research Related to Carding Attacks , Future Scope Implementations of CardPay
+## This Folder contains our research related to Carding Attacks, their consequences and estimation of such attacks in the future. This research is done to emphasize the significance of our project. 
