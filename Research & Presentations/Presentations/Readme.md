@@ -5,7 +5,9 @@
   2. Mobile Application was developed with important functionalities of Card Pay.
   3. Integrated a basic chatbot for Mobile Application.
   4. Added Phishing Website detection feature to our Official Website.
- > *The presentation for Day-1 is uploaded as 'Ideation.pptx'*.
+ 
+ *The presentation for Day-1 is uploaded as 'Ideation.pptx'*.
  
  > The working of mobile application can be viewed [here](https://www.youtube.com/watch?v=asMZSIjaYM4&feature=emb_title).
+ ----------------------------
 
