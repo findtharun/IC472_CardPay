@@ -33,4 +33,4 @@ cm = confusion_matrix(y_test, y_pred)
 print(cm)
 
 #pickle file joblib
-joblib.dump(classifier, 'final_models/logisticR_final.pkl')
+joblib.dump(classifier, '../final_models/logisticR_final.pkl')

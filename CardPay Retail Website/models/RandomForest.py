@@ -50,7 +50,7 @@ print(cm)
 
 
 #pickle file joblib
-joblib.dump(classifier, 'final_models/rf_final.pkl')
+joblib.dump(classifier, '../final_models/rf_final.pkl')
 
 
 #-------------Features Importance random forest

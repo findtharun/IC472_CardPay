@@ -8,7 +8,7 @@ classifier = joblib.load('final_models/rf_final.pkl')
 app = Flask(__name__)
 @app.route('/')
 def my_form():
-    return render_template('index3.html')
+    return render_template('index25.html')
 warnings.filterwarnings("ignore")
 
 #load the pickle file
@@ -21,7 +21,6 @@ warnings.filterwarnings("ignore")
 
 @app.route('/processing',methods=['POST','GET'])
 def processing():
-    print("HELLO")
     text = request.form['name']
     if text:
         checkprediction = inputScript.main(text)
@@ -37,6 +36,9 @@ def processing():
     else:
         return jsonify({"error":"Missing data!"})
 
+@app.route('/apipage',methods=['POST','GET'])
+def apipage():
+    return render_template('index4690.html')
 
 	# return jsonify({'error' : 'Missing data!'})
 
