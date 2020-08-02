@@ -1,4 +1,4 @@
 ## Architecture Diagram
 
-<img src="FaceRecognition/Architectre_faceApi.png" >
+<img src="Architectre_faceApi" >
 
