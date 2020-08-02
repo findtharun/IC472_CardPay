@@ -1,4 +1,4 @@
 ## Architecture Diagram
 
-<img src="Architectre_faceApi.jpg" >
+<img src="Architectre_faceApi.png.png" >
 
