@@ -8,6 +8,16 @@
  
  *The presentation for Day-1 is uploaded as 'Ideation.pptx'*.
  
- > The working of mobile application can be viewed [here](https://www.youtube.com/watch?v=asMZSIjaYM4&feature=emb_title).
  ----------------------------
-
+## Day-2 Progress:
+1) Developed Promotional Website for CardPay
+2) Derived formula for CardPay Trust Score and Experimented it.
+3) In-app notifications from payment gateway to app is successfully completed.
+4) Successfully achieved the end-to-end workflow of the project.
+5) Improvised additional feature (Phishing Website Detection) in the Website.
+6) Improved the UI for Mobile application.
+7) Integrated all required APIs with Mobile Application.
+ 
+ > The working of mobile application can be viewed [here](https://www.youtube.com/watch?v=asMZSIjaYM4&feature=emb_title).
+ 
+ -------------------------------
