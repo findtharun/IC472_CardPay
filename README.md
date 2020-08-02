@@ -1,7 +1,7 @@
 # IC472_CardPay
 
 ## Introduction
-With the rapid advent in technology, there also have been cons that many face each day, falling prey to the lure of innovations and advancements. The same road has also led people towards automating everything they use, so as to lessen the burden and hard work involved in it. Like they say, with greater power, comes greater responsibilities. In our case, with greater automation, comes a greater consequence. Our project focuses on one such consequence, that we’ve all experienced at least once in our lives, a fraudulent bank transaction, or a fraudulent call trying to get to know important information from you for unimaginable and dangerous purposes. 
+With the rapid advent in technology, there also have been cons that many face each day, falling prey to the lure of innovations and advancements. The same road has also led people towards automating everything they use, so as to lessen the burden and hard work involved in it. Like they say, with greater power, comes greater responsibilities. In our case, with greater automation, comes greater consequences. Our project focuses on one such consequence, that we’ve all experienced or witnessed at least once in our lives, a fraudulent bank transaction, or a fraudulent call trying to get to know important information from you for dangerous purposes. 
 
 Let's have a look at the statistics from 2018.
 > <img src="images/Top 10.jpg" width="500" height="300" >
