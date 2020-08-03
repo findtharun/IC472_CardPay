@@ -1,8 +1,9 @@
 This website is built to serve multiple purposes. First and foremost purpose is to have a merchant website in order to show how the website redirects to the user's application. This website is also for promotional purpose where we have introduced an additional feature which is the Phishing Detection Feature. The user can visit our website and enter a URL in case he/she is skeptic about the website being genuine.
 
-Flow Chart
+<h3> Flow Chart </h3>
 <img src='Images/WebSite.png' />
-Web Application runs 24 *7 on AWS EC2 Instance .
+
+* Web Application runs 24 *7 on AWS EC2 Instance .
 
 
 How this works?
