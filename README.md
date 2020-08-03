@@ -14,7 +14,7 @@ The below graph shows the consequences one goes through if they are a victim of 
 Card Pay is a mobile application which Authenticates Users before transaction using AI Techniques, ensuring safety and security. How does this happen? Let's try to understand using the workflow below.
 
 ## Workflow
-> <img src="images/Flowchart.jpeg" width="500" height="600">
+> <img src="images/Flowchart.jpeg" width="500" height="600"> 
 
 ## Workflow Description
 * Firstly, the user has to download the Card Pay application in his/her mobile.
