@@ -16,7 +16,7 @@ CardPay trustScore depends on 75% of the rating depends on user reviews and 25% 
 
 ### From TrustScore to star rating
 Using standard mathematical rounding rules, the star rating will be rounded up or down to half or full stars, depending on the calculation of the TrustScore
-![Image of Yaktocat](https://images-static.trustpilot.com/supportcenter/TrustScore%20explained.jpg)
+![Image of Yaktocat](https://images-static.trustpilot.com/supportcenter/TrustScore%20explained.jpg=250*250)
 
 
 
@@ -28,4 +28,4 @@ We collect, manage, and analyze reviews, calculate trust score. So our merchant 
 
 Minimum Card trust score for a merchant website should be more than 3.5 stars then we will consider it has trustworthy website.Reviews will be taken from verified customer who has registered in our application and also done transaction in merchant website.
 
-![Image of Yaktocat](https://rankfrog.com/wp-content/uploads/2017/09/trustworthy-websites.jpg)
+![](https://rankfrog.com/wp-content/uploads/2017/09/trustworthy-websites.jpg=100*100)
