@@ -27,5 +27,4 @@ We collect, manage, and analyze reviews, calculate trust score. So our merchant 
 ## Trustworthy Website
 
 Minimum Card trust score for a merchant website should be more than 3.5 stars then we will consider it has trustworthy website.Reviews will be taken from verified customer who has registered in our application and also done transaction in merchant website.
-
-![](https://rankfrog.com/wp-content/uploads/2017/09/trustworthy-websites.jpg=100*100)
+<img src="https://rankfrog.com/wp-content/uploads/2017/09/trustworthy-websites.jpg" height="%40" width="40%">.
