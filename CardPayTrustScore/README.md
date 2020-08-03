@@ -16,6 +16,8 @@ CardPay trustScore depends on 75% of the rating depends on user reviews and 25% 
 
 ### From TrustScore to star rating
 Using standard mathematical rounding rules, the star rating will be rounded up or down to half or full stars, depending on the calculation of the TrustScore
+
+
 <img src="https://images-static.trustpilot.com/supportcenter/TrustScore%20explained.jpg" height="50%" width="50%">
 
 
