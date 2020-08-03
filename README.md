@@ -32,4 +32,4 @@ Card Pay is a mobile application which Authenticates Users before transaction us
 > <img src="images/CardPay App Final1.jpg" width="375" height="300"> <img src="images/CardPay App Final2.jpg" width="375" height="300">
 
 
-### You can find our promotional video [here.](https://twitter.com/kumartharun435/status/1285588266914156544?s=08)
+### You can find our promotional video [here](https://twitter.com/kumartharun435/status/1285588266914156544?s=08) and final presentation [here.](https://www.canva.com/design/DAEC-1YqV8w/45K3mWZZLnPhmB82QDPqsg/view?utm_content=DAEC-1YqV8w&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
