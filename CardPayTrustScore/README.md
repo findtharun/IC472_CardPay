@@ -1,5 +1,5 @@
 ![Image of Yaktocat](https://www.switchitupdesigns.com/wp-content/uploads/2013/02/trust-website11.jpg)
-# CardPay trustScore
+# CardPay TrustScore
 CardPay trustScore calculated based on user reviews given in the end of the transcation , TrustFlow and Citation flow.
 
 ## Formula for calculating CardPay trustScore
