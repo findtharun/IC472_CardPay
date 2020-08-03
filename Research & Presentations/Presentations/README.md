@@ -18,6 +18,6 @@
 6) Integrated all required APIs with Mobile Application.
 7) Successfully achieved the main workflow of the project (Start of Payment to Device Verification)
  
- > The working of mobile application can be viewed [here](https://www.youtube.com/watch?v=asMZSIjaYM4&feature=emb_title).
+ *The working of mobile application can be viewed [here](https://www.youtube.com/watch?v=asMZSIjaYM4&feature=emb_title).*
  
  -------------------------------
