@@ -21,3 +21,15 @@
  *The working of mobile application can be viewed [here](https://www.youtube.com/watch?v=asMZSIjaYM4&feature=emb_title).*
  
  -------------------------------
+## Day-3 Progress:
+1) Added Virtual Debit Card Feature
+2) Integrated Trusty Worthiness Verification with Mobile Application
+3) Integrated AR/VR chatbot with Mobile Application
+
+**Successfully gave the end-to-end demo of "CardPay Application."**
+
+*The promotional video of CardPay can be viewed [here.](https://twitter.com/kumartharun435/status/1285588266914156544?s=08)*
+
+-------------------------
+
+## Thank You
