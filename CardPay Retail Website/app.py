@@ -3,7 +3,7 @@
 import joblib
 import inputScript
 import warnings
-from flask import Flask,render_template,request,jsonify
+from flask import Flask,render_template,request,jsonify,redirect
 classifier = joblib.load('final_models/rf_final.pkl')
 app = Flask(__name__)
 @app.route('/')
@@ -38,9 +38,22 @@ def processing():
 
 @app.route('/apipage',methods=['POST','GET'])
 def apipage():
-    return render_template('index4690.html')
+    return render_template('index269.html')
 
-	# return jsonify({'error' : 'Missing data!'})
+
+@app.route('/google')
+def google():
+    return redirect("https://www.google.com")
+
+@app.route('/apipage/pagesuccess')
+def pagesuccess():
+    return render_template("index24.html")
+
+@app.route('/apipage/pagefailure')
+def pagefailure():
+    return render_template("index146.html")
+
+
 
 
 if __name__ == '__main__':
