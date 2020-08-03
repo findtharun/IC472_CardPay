@@ -30,6 +30,8 @@
 
 *The promotional video of CardPay can be viewed [here.](https://twitter.com/kumartharun435/status/1285588266914156544?s=08)*
 
+*The final presentation of CardPay can be viewed [here.](https://www.canva.com/design/DAEC-1YqV8w/45K3mWZZLnPhmB82QDPqsg/view?utm_content=DAEC-1YqV8w&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)*
+
 -------------------------
 
 ## Thank You
