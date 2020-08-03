@@ -1,1 +1,1 @@
-Caaaaaard
+CardPay Trust Score
