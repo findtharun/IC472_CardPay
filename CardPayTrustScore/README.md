@@ -1,6 +1,5 @@
-# Project Title
-
-One Paragraph of project description goes here
+# CardPay trustScore
+CardPay trustScore calculated based on user reviews given in the end of the transcation , TrustFlow and Citation flow.
 
 ## Getting Started
 
