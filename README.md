@@ -25,4 +25,7 @@ Card Pay is a mobile application which Authenticates Users before transaction us
 * After Device Verification, Card Pay Trust score of the Merchant is displayed. If  Trust score is less than 3.5 out of 5, the user is warned for safety.
 * After successful Authentication Steps, money is added to user's virtual debit card, transaction is initiated and credit card is locked to ensure user’s data security. Credit Card Can be unlocked by user at any time.
 
+## Deployment Diagram
+> <img src="images/Deployment Diagram.jpg" width="700" height="650">
+
 ### You can find our promotional video [here.](https://twitter.com/kumartharun435/status/1285588266914156544?s=08)
